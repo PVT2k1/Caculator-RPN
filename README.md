@@ -6,5 +6,5 @@ Input: infix expression
   Oprator: + - / * ^  
 Output: result of input expression
 ## Framework
-1. Convert infix expression to postfix expression by using RPN (Reverse Polish Notation)
-2. Solve infix expression by using stack (char stack and number stack)
+1. Convert infix expression to postfix expression by using RPN
+2. Solve infix expression by using stack
